@@ -1,0 +1,13 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../../atsses/font/Foglihten-068.otf);
+}
+
+.offer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    line-height: 0;
+    font-family: fogi;
+}

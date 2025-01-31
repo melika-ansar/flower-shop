@@ -1,0 +1,59 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../../atsses/font/Foglihten-068.otf);
+}
+.star{
+   width: 2.1rem;
+   height: 2.1rem;
+ }
+   
+  .five-star{
+    width: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 0;
+    margin-left: 18.8rem;
+    margin-bottom: 0.5rem;
+  }
+
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    background-color: #d49698;
+    width: 48rem;
+    height: 15rem;
+    border-radius: 10px;
+    line-height: 0;
+}
+
+.slid{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #EDDADA;
+    padding: 5rem;
+    font-family: fogi;
+}
+
+.profile{
+border-radius: 50%;
+width: 6rem;
+height: 6rem;
+position: absolute;
+margin-bottom:15rem ;
+margin-right: 33rem;
+border: 5px solid #dcc604;
+}
+
+.model{
+  font-size: x-large;
+  font-weight: 700;
+}
+
+.detail{
+    font-size: 17px;
+}
+

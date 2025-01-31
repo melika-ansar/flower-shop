@@ -1,0 +1,24 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../atsses/font/Foglihten-068.otf);
+}
+
+.proof{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.p-proof{
+    text-align: center;
+    font-size: large;
+    font-family: fogi;
+    margin: 0;
+    padding: 1rem;
+    padding-bottom: 2rem;
+}
+
+.proof-container{
+    background-color: #dca7af;
+    padding-bottom: 1.5rem;
+}

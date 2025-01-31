@@ -1,0 +1,26 @@
+.submit{
+    width: 16rem;
+    height: 3rem;
+    border-radius: 5px;
+    border: none;
+    background-color: #8ab568;
+    color: aliceblue;
+    margin-top: 0.75rem;
+    text-align: center;
+}
+
+.submit:active{
+    transform: scale(0.97);
+}
+
+.message{
+    font-size: small;
+    margin-top: 2rem;
+    position: absolute;
+    text-align: center;
+    border-radius: 5px;
+    color: #E3DBEF;
+    background-color: #93709e;
+    padding: 0.5rem;
+    margin-left: 1.2rem;
+}

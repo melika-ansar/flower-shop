@@ -1,0 +1,11 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../atsses/font/Foglihten-068.otf);
+}
+
+.rebenfit {
+    padding-top: 1rem;
+    background-color: #dca7af;
+    line-height: 1rem;
+    font-family: fogi;
+}

@@ -1,0 +1,22 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../atsses/font/Foglihten-068.otf);
+}
+
+.form-container {
+    display: grid;
+    width: 21rem;
+    justify-content: center;
+    gap: 10px;
+    background-color: #ebb1ba;
+    padding-top: 3rem;
+    padding-bottom: 6rem;
+    font-family: fogi;
+    border-radius: 20px;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: large;
+    margin-bottom: 2rem;
+}

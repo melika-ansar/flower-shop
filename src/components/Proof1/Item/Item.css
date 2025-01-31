@@ -1,0 +1,24 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../../atsses/font/Foglihten-068.otf);
+}
+
+.proof-icon{
+    width: 4rem;
+}
+
+.proof-text{
+    font-size: x-small;
+}
+
+.item{
+    font-family: fogi;
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    background-color: #E9C5C5;
+    width: 8.5rem;
+    height: 8.5rem;
+    border-radius: 50%;
+}

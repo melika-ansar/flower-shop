@@ -1,0 +1,26 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../../../atsses/font/Foglihten-068.otf);
+}
+
+.ctabtn{
+    width: 16rem;
+    height: 3rem;
+    border-radius: 5px;
+    border: none;
+    background-color: #8ab568;
+    color: aliceblue;
+    margin-top: 0.75rem;
+    text-align: center;
+    font-family: fogi;
+    margin-bottom: 2rem;
+}
+
+.ctabtn:active{
+    transform: scale(0.97);
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}

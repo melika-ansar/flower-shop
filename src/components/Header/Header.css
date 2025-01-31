@@ -1,0 +1,24 @@
+@font-face {
+    font-family: fogli;
+    src: url(./../../atsses/font/Foglihten-068.otf);
+}
+
+.head{
+    text-align: center;
+    line-height: 5px;
+    font-family: fogli;
+}
+
+.one-paragraph{
+    font-size: small;
+}
+
+.two-paragraph{
+    font-size: x-large;
+    font-weight: 700;
+    line-height: 15px;
+}
+
+.three-paragraph{
+    font-size: x-large;
+}

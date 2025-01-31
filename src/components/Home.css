@@ -1,0 +1,40 @@
+@font-face {
+    font-family: fogi;
+    src: url(./../atsses/font/Foglihten-068.otf);
+}
+
+.home-section1{
+    font-family: fogi;
+    padding-bottom: 0.5rem;
+    background-image: url("./../atsses/image/background.png");
+    background-size: cover;
+}
+
+.section-two{
+    display: flex;
+    justify-content: center;
+    gap: 5rem;
+    margin-top: 3rem;
+    margin-left: 10rem;
+}
+
+.logo-container{
+display: flex;
+font-size: large;
+justify-items: center;
+font-weight: 800;
+color: rgb(224, 116, 152);
+}
+
+.logo{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    margin-left: 1rem;
+    margin-top: rem;
+}
+
+.clip{
+    width: 32rem;
+
+}

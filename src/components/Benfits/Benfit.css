@@ -1,0 +1,10 @@
+.lists{
+    line-height: 2.30rem;
+    font-size: 14px;
+    margin: 0;
+    padding: 1rem;
+}
+
+li::marker{
+    font-size: 20px;
+}
